@@ -1,0 +1,14 @@
+# Backend (Node)
+node_modules/
+.env
+
+# Frontend (Flutter)
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
